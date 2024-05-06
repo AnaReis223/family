@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    background-color: white;
+}
+
+.par {
+    color: blue;
+    font-size: 20pt;
+    font-family: Verdana;
+}
+
+.impar {
+    color: red;
+    font-size: 16pt;
+    font-family: Arial;
+}
+
+.image {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-color: black;
+}
+
+#titulo {
+    background-color: rgb(61, 98, 221);
+    border-radius: 10em;
+}
